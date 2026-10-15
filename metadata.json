@@ -1,0 +1,9 @@
+{
+  "name": "JABBII - Short Video Social Platform",
+  "description": "Watch, Create, and Connect on JABBII, the next-generation short-form video platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
